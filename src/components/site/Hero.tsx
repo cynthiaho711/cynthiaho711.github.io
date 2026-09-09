@@ -39,13 +39,6 @@ export function Hero() {
             className="mt-10 flex flex-wrap gap-3"
           >
             <a
-              href="#work"
-              className="group inline-flex items-center gap-2 rounded-full bg-foreground text-background px-6 py-3 text-sm font-medium hover:bg-accent transition-colors"
-            >
-              See my work
-              <span className="transition-transform group-hover:translate-x-1">→</span>
-            </a>
-            <a
               href="https://www.linkedin.com/in/cynthiahokth/"
               target="_blank" rel="noreferrer"
               className="inline-flex items-center gap-2 rounded-full border border-foreground/20 px-6 py-3 text-sm font-medium hover:bg-foreground/5 transition-colors"
