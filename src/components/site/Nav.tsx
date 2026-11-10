@@ -1,12 +1,12 @@
 import { motion } from "motion/react";
 
 const links = [
-  { href: "about", label: "About" },
-  { href: "interests", label: "Interests" },
-  { href: "work", label: "Work" },
-  { href: "hackathon", label: "Hackathon" },
-  { href: "awards", label: "Awards" },
-  { href: "contact", label: "Contact" },
+  { href: "#about", label: "About" },
+  { href: "#interests", label: "Interests" },
+  { href: "#work", label: "Work" },
+  { href: "#hackathon", label: "Hackathon" },
+  { href: "#awards", label: "Awards" },
+  { href: "#contact", label: "Contact" },
 ];
 
 export function Nav() {
